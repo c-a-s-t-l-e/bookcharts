@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bookcharts"
+  site-url: "https://c-a-s-t-l-e.github.io/bookcharts"
+  description: "This library allows you to view books through charts."
+  repo-branch: main
+  repo-url: "https://github.com/c-a-s-t-l-e/bookcharts.git"
